@@ -13,6 +13,15 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors: {
+        "secondary-50": "#19182580",
+        "secondary-75": "#191825BF",
+        "secondary-100": "#191825FF",
+        "travlog-purple": "#5850C6FF",
+        "travlog-orange": "#FF5722FF",
+        "travlog-dark": "#222831FF",
+        "travlog-pink": "#F85E9FFF"
+      }
     },
   },
   plugins: [],
